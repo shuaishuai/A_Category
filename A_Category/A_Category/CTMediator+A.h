@@ -6,7 +6,8 @@
 //  Copyright © 2017年 Allen. All rights reserved.
 //
 
-#import <CTMediator/CTMediator.h>
+#import <UIKit/UIKit.h>
+#import  <CTMediator/CTMediator.h>
 
 @interface CTMediator (A)
 - (UIViewController *)A_aViewController;
